@@ -237,7 +237,7 @@ export const appsData = [
     id: 14,
     title: "Canva",
     companyName: "Canva Pty Ltd",
-    image: "/Canva.png",
+    image: "/public/canva.png",
     description: "Canva is an Australian graphic design platform used to create social media graphics, presentations, posters, documents and other visual content.",
     size: 55,
     reviews: 1600000,
